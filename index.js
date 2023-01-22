@@ -1,4 +1,6 @@
 const http = require('http');
+require('./m1');
+require('./m2');
 
 const aboutPage = `
 <!DOCTYPE html>
